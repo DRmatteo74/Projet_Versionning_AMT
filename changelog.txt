@@ -1,0 +1,26 @@
+aa9ac66d22338a10fd8b29218f5b4bcdbedbbbae (HEAD -> develop, origin/develop) [AMT-8]
+a5aa14552aa7438d4d4c80a75ac04db7c2aff2a4 [AMT-8] - V2
+1a4cc6fb4264e4619a295fe876e65bd6f659fb82 [AMT-8] - Fix Conflict
+827217b5adff83f98246ae1f9a457a4583d3f640 [AMT-8] - V2
+ab67dac9e1b81cb31c5448b161c3decdc6d5e48c (atm-10) [AMT-10] - Correctifs
+93dc40c85bb110f913e10aaedb3afd965440d3c5 (origin/AMT-8) [AMT-8] - V1
+88d83937be709af998d514757f30d8db256cddcb [AMT-7] - Fix conflict
+d933ee13e88c99f3ea9c93fe023fe357c31dfa5e (origin/AMT-7, AMT-7) [AMT-7] - Images
+46030171d862ebcc6b9270398a2e168cc1334417 [AMT-3] - Ajout screenshot
+c541057e3dd679c4da8fae255a48cdf9ce7867e2 [AMT-6] - Remplacement du texte
+2de29e04d562b9cfaf1e96c6266c3e723a7e893a Merge pull request #8 from DRmatteo74/AMT-3
+184c65a4fce11b792fdfcdf02c1b5d1e96521351 (origin/AMT-6) [AMT-6] - Remplacement du texte
+9a80c58c7e7a778b5ae57549dc857ecfa42b2667 (origin/AMT-3) [AMT-3] - Ajout screenshot
+bad07a330ca2fc4ea7ccc2a711c0cd8e88350899 [AMT-3] - Rename des liens, Suppression de lien et ajout de bootstrap
+f4a2921caa8cd5e0252caea8fcf460555aa8d577 (origin/main, origin/HEAD, main) Merge branch 'main' of github.com:DRmatteo74/Projet_Versionning_AMT into develop
+ca5220f038751c73b0a6ad3cef1c4878d3bb87e6 [AMT-5] Créer la branche Develop
+dd0a9a317038ffd3b0c09a839fd95737c619d154 Merge branch 'main' of github.com:DRmatteo74/Projet_Versionning_AMT       
+9ce7f35b464a6c892efb7412d469c58761193e21 TP_MAJ_ReadME
+3a832d15609cf3d9192a6cc103507d7ee62fc145 [AMT-4] Ajouter les fichiers CSS
+3691596fb15f257f80c4e7311fbee89628775ee8 [AMT-1] - Suppression du fichier style.css
+cc4ea084cbfca52b693d125205cc9e3ece2e4b69 [AMT-1] Suppression du fichier responsive.css
+846f39d39791805989570bfbc4174bb2050d576f [ATM-1] - Suppression des images
+68a4ec26758585cafec698fb92750ab46a334be3 [AMT-1] - Ajout du template + 2 screenshots
+5338637f7f6f34fc7cdb0c3ee9b18a78af964727 TP_Mise_en_place_fichiers_bases
+003f151d2400b6c590b49711fb04e555dacbbef2 [AMT-2] - Creer une arborescence dans le projet
+38d4bae4e4f90949c965eadeb33a2f6c923a76f9 Initial commit
